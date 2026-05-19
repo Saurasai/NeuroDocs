@@ -106,8 +106,6 @@ pip install -r requirements.txt
 
 Download Ollama:
 
-:contentReference[oaicite:0]{index=0}
-
 ---
 
 # Pull Models
