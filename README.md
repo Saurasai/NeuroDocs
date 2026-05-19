@@ -73,7 +73,7 @@ backend/
 ├── app/
 │   ├── main.py
 │   ├── uploads/
-│   └── __pycache__/
+│
 │
 ├── frontend/
 │   └── index.html
