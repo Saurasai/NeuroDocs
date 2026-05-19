@@ -1,5 +1,8 @@
 # Local RAG Explorer
 
+<img width="1885" height="900" alt="image" src="https://github.com/user-attachments/assets/4be9f6b6-049c-4a77-9694-4f5718cf3bc8" />
+
+
 A fully local Retrieval-Augmented Generation (RAG) application powered by Ollama, FastAPI, and a custom frontend interface.
 
 This project allows users to upload documents, generate embeddings locally, retrieve relevant context using semantic search, and chat with documents using local LLMs such as Llama3, Phi3, and TinyLlama.
